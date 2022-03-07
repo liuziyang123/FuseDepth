@@ -19,3 +19,4 @@ To run a demo, do:
 ./Fusion image_folder_name
 ```
 `image_folder_name` the name of an image, or a video frame from a sequence. The folder should include the corresponding RGB image, depth from a 16-wire *lidar*, depth from a *stereo/binocular*, and depth from a *ToF*. The depth data are all saved as 16-bit images. 
+![image](https://github.com/liuziyang123/FuseDepth/blob/main/input/rgb.png)
