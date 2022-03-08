@@ -19,11 +19,9 @@ To run a demo, do:
 ./Fusion image_folder_name
 ```
 `image_folder_name` the name of an image, or a video frame from a sequence. The folder should include the corresponding RGB image, depth from a 16-wire *lidar*, depth from a *stereo/binocular*, and depth from a *ToF*. The depth data are all saved as 16-bit images.
-<p align="center">
-  <img src="input/rgb.png"  witdth="300">  &emsp;  &emsp;
-  <img src="input/lidar.png"  width="300">
-</p>
-<p align="center">
-  (a) RGB image  &emsp;  &emsp;
-  (b) lidar image
-</p>
+<div align=center>
+  <img src="input/rgb.png"  witdth="300">&emsp;&emsp;<img src="input/lidar.png"  width="300">
+</div>
+<div align=center>
+  (a) RGB image&emsp;&emsp;(b) lidar image
+</div>
